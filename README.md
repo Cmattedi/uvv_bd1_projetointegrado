@@ -61,4 +61,4 @@ A seguir, estão algumas capturas de tela do banco de talentos:
 
 ![projeto-conceitual]([screenshots/tela_pesquisa.png](https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/Conceitual_1.png)https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/Conceitual_1.png)
 
-![projeto-lógico]([screenshots/tela_detalhes.png](https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/projeto_l%C3%B3gico.png)https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/projeto_l%C3%B3gico.png)
+![projeto-lógico](https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/projeto_l%C3%B3gico.png)
