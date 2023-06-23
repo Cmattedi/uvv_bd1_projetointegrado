@@ -59,6 +59,10 @@ Contribuições para o aprimoramento do banco de talentos são bem vindas!
 
 A seguir, estão algumas capturas de tela do banco de talentos:
 
+## Projeto conceitual
+
 ![projeto-conceitual](https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/Conceitual_1.png)
+
+## Projeto lógico
 
 ![projeto-lógico](https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/projeto_l%C3%B3gico.png)
