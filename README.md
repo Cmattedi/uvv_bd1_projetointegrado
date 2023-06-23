@@ -1,5 +1,5 @@
 # Banco de Talentos - BD1
-* **Nome dos Alunos:** Cosme braz mattedi, Felipe Vargas do Espírito Santo Salino, Luiz Zatta, Arthur Machado Silva, Gabriel Ferraz
+* **Nome dos Alunos:** Cosme Braz Mattedi, Felipe Vargas do Espírito Santo Salino, Luiz Zatta, Arthur Machado Silva, Gabriel Ferraz Marcondes
 * **Turma:** SI1N
 * **Nome do Professor:** Abrantes Araújo Silva Filho
 * **Nome da Monitora:** Suellen Miranda
@@ -59,6 +59,6 @@ Contribuições para o aprimoramento do banco de talentos são bem vindas!
 
 A seguir, estão algumas capturas de tela do banco de talentos:
 
-![projeto-conceitual]([screenshots/tela_pesquisa.png](https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/Conceitual_1.png)https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/Conceitual_1.png)
+![projeto-conceitual](https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/Conceitual_1.png)
 
 ![projeto-lógico](https://github.com/Cmattedi/uvv_bd1_projetointegrado/blob/main/projeto%20integrado/projeto_l%C3%B3gico.png)
